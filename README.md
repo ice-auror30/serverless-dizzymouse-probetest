@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Serverless Node.js Starter
 
 A Serverless starter that adds ES7 syntax, serverless-offline, environment variables, and unit test support. Part of the [Serverless Stack](http://serverless-stack.com) guide.
@@ -129,3 +130,7 @@ To add environment variables to your project
 ### Maintainers
 
 Serverless Node.js Starter is maintained by Frank Wang ([@fanjiewang](https://twitter.com/fanjiewang)) & Jay V ([@jayair](https://twitter.com/jayair)). [**Subscribe to our newsletter**](http://eepurl.com/cEaBlf) for updates. Send us an [email](mailto:contact@anoma.ly) if you have any questions.
+=======
+# serverless-dizzymouse-probetest
+Creating a React AWS serverless web application system for probe test in the dizzymouse NSF project
+>>>>>>> bbf8a14d6c29b20e44bd814c31acf0a808c1fddf
